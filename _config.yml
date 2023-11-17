@@ -1,0 +1,10 @@
+# _config.yml
+
+# Site settings
+title: Your Site Title
+description: Your site description
+theme: jekyll-theme-minimal
+
+# Build settings
+markdown: kramdown
+permalink: /:title/
